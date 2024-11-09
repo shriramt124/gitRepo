@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color:white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+    padding:20px;
+
+}
+span{
+    font-size:25px;
+    background-color: blue;
+    padding:1px 4px ;
+    
+}
